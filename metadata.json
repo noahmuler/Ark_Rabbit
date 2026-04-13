@@ -1,0 +1,6 @@
+{
+  "name": "RabbitReview: CodeRabbit Integration Hub",
+  "description": "Integrate CodeRabbit AI reviews into your workflow. Review code, check security, and apply autofixes to GitHub PRs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
